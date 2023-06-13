@@ -107,3 +107,6 @@ header {
   max-width: 200%;
   max-height: 200%;
 }
+.greeting {
+text-align: center;
+}
